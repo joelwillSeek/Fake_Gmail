@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.joelthousend">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/t_account" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/text9087898657View5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/t454356643extView8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textView6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/text211421435View5"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/tex324324tView8"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/dfsfd"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/round_with_text_download" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textVi6657657ew5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/text435435View8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textVie4321341w6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textVi1232ew5"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/ijoijoij9032"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/df324324sfd"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/round_with_text_download" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/texretuioehrt433tView5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textfgreyg9843htView8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/texfoijgnhnuih432tView6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textVefgjui4hti43iew5"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/textViejknvniu4w8"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/fdoivj43"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_4"
+                    android:layout_width="100dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/baseline_account_circle_24" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textV4839tu948jnfview5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textVie438j9fw8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textV4389j89idsfiew6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textV4398j98dfsiew5"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/textVi43j09jdsfew8"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/dfsfd325325"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_5"
+                    android:layout_width="100dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/baseline_account_circle_24" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textVibedfewrfwe3ew5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textVi23154325dfew8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textretret44View6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textV325235iew5"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/texgfret435tView8"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/dfs435345fd"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_6"
+                    android:layout_width="100dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/baseline_account_circle_24" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textVknkfdjksa939iew5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textV324324fdfciew8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/text32e32erefdView6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textV43e332eiew5"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/textV43t34tiew8"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/dfsfu897894jhertrd"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/t_account" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/text43fiuu43jfView5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/text904kj3098r43View8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textV325235235iew6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textV54y58734iew5"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/textVi897324987324ew8"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/dfsnfoioi43fd"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/t_account" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textView5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textV4fij439jfiew8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textefj3498jf43View6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textView5j3f29083f2"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/textView8"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/dfs352235325fd"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/t_account" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textViewfe4f302j09f23j5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textVifio3j2908jf32ew8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textViewf930j2f90326"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textV4jf94iew5"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/textVfesoidiojn32iew8"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/dfsfdtry434343"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/t_account" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textVi324fkjew5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textVioreutoiredsiew8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textVikljioew6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textV124343435454356iew5"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/textV4354356iew8"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/dfsf34324324dfgfd"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/t_account" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/textoiji4f0jrfView5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textV3j9f8j32fiew8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textView93j93f28d6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/text32898j9dfView5"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/textVie88j93fjdsfsw8"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/dfsfd43tredefsd"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:layout_marginTop="10dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/account_btn_12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/t_account" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/text32hh9hf3View5"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="The Google Account Team"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/textVi3298j98jfeew8"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="9:02 am"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+
+                    <TextView
+                        android:id="@+id/textV32r89832j98jfdiew6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Eyoel, finish setting up your Android..."
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/text3289j98j3fView5"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="finish setup" />
+
+                        <TextView
+                            android:id="@+id/textV48ur98ur4iew8"
+                            android:layout_width="1dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="..."
+                            android:textAlignment="center"
+                            android:textStyle="bold" />
+
+                        <CheckBox
+                            android:id="@+id/dfsfd3223r32rwe"
+                            android:layout_width="1dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            android:button="@drawable/checkstar"
+                            android:checked="false" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>
